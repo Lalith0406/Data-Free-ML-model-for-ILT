@@ -1,5 +1,5 @@
 # ___ Files and to which project do they belong __
-#1. Physics-Informed Machine Learning Models for Inverse Lithography Workflows
+# 1. Physics-Informed Machine Learning Models for Inverse Lithography Workflows
 # - Complex results - Google Slides.pdf
 # - ILT intro - Google Slides.pdf
 # - ILT(Main).ipynb - Colab.pdf
@@ -10,10 +10,10 @@
 # - Sem_V_project_presentation - Google Slides.pdf
 # - UNet_Single _img.ipynb - Colab.pdf
 
-#2. Oil–Water Separation
+# 2. Oil–Water Separation
 # - Report_oil water separation using wax-coated sponge.pdf
 
-#3. Uranium Ore Beneficiation and Hydrometallurgical Extraction for Nuclear Fuel Production
+# 3. Uranium Ore Beneficiation and Hydrometallurgical Extraction for Nuclear Fuel Production
 # - Metal_Extraction_Phase-2.pdf
 # - Metal_Extraction_Phase-I.pdf
 # - Metal_Extraction_Phase_3 (1).pdf
